@@ -5,6 +5,6 @@
 
   # ajschulz's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ajschulz.github.io/test_website.github.io](https://ajschulz.github.io/test_website.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
